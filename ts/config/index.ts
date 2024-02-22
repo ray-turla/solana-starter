@@ -16,7 +16,7 @@ export const CONFIG = {
   CLUSTER: "devnet" as Cluster,
   COMMITMENT: "confirmed" as Commitment,
   EXPLORER_BASE_URL: {
-    SOLANA_EXPLORER: "https://https://explorer.solana.com/tx",
+    SOLANA_EXPLORER: "https://explorer.solana.com/tx",
     SOLSCAN: "https://solscan.io/tx"
   }
 }
